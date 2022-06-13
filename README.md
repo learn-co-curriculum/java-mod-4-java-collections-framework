@@ -38,7 +38,7 @@ interfaces: `Collection` and `Map`.
 The `Collection` interface is used by data structures or collections that
 contain a list of elements of the same type.
 
-![List Interface Diagram](https://curriculum-content.s3.amazonaws.com/java-mod-4/List-Interface-Diagram.png)
+![Collection Framework Diagram](https://curriculum-content.s3.amazonaws.com/java-mod-4/Collection-Framework-Diagram.png)
 
 The `Map` interface is used by collections that store a pair of values.
 
